@@ -4,6 +4,4 @@ hola como están? este es el segundo commit
 
 prueba para hacer commit al repo local.
 
-prueba para trabajar con una rama.
-
-la rama prueba_alt fue creada.
+Se borraron dos lineas en la rama prueba_alt.
